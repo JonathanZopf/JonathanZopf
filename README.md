@@ -11,6 +11,10 @@ I am well acquainted with:
  - Unity3D Game Engine
  - Java Development
  - C# and .NET
+ - Python Scripting
+ - Web Development
+ - C++
+ - Assembly
  - SQL
  
 <!--Since I have started programming I have already released several games. My most popular game is Money Clicker with 1 Million installs.
